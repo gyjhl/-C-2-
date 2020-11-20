@@ -3,7 +3,7 @@
 #include<ctime>
 using namespace std;
 
-
+/*
 int main() {
 
 	//引用基本语法
@@ -18,3 +18,4 @@ int main() {
 	system("pause");
 	return 0;
 }
+*/
